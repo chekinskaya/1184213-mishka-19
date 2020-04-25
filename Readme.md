@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Яна Чекинская](https://up.htmlacademy.ru/adaptive/19/user/1184213).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот].
 
 ---
 
